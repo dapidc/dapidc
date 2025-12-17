@@ -3,6 +3,14 @@
 Bogor, Indonesia · Full-stack & Infrastructure Engineer · Technology Leader  
 Email: dapidc@gmail.com
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 ## About
 
 I’m a software engineer and technology leader with 20+ years of experience building
